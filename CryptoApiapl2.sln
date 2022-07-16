@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoApiapl2", "CryptoApiapl2.csproj", "{BD3E8AD0-F691-4600-B2CF-BE2F7D7E2E3D}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiCrypto", "..\..\..\..\..\Desktop\Nueva carpeta\ApiCrypto\ApiCrypto.csproj", "{1E4CD6E5-1F2D-44CE-A433-1653F123C243}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BD3E8AD0-F691-4600-B2CF-BE2F7D7E2E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BD3E8AD0-F691-4600-B2CF-BE2F7D7E2E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BD3E8AD0-F691-4600-B2CF-BE2F7D7E2E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BD3E8AD0-F691-4600-B2CF-BE2F7D7E2E3D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1E4CD6E5-1F2D-44CE-A433-1653F123C243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1E4CD6E5-1F2D-44CE-A433-1653F123C243}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E4CD6E5-1F2D-44CE-A433-1653F123C243}.Release|Any CPU.ActiveCfg = Release|Any CPU
